@@ -1,0 +1,5 @@
+print("Welcome to input and output in python")
+Name = input("name of the candidate: ")
+Age = input("age of the candidate: ")
+Exam = input("name of the Exam: ")
+print(Name   + " at the age of " +  Age   + " cleared " + Exam)
